@@ -2,7 +2,7 @@
 
 ### پروژه های در حال کار..
 <!-- recent_releases starts -->
-[datasette-sentry 0.3](https://github.com/mersaduv) - 2022-10-06
+[random api](https://github.com/mersaduv) - 2022-10-06
 
 [datasette-search-all 1.1](https://github.com/mersaduv) - 2022-10-05
 
