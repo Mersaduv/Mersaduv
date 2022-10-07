@@ -21,7 +21,7 @@
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
-### اپلکیشن ها و برنامه های پرداختی
+### اپلیکیشن ها و برنامه های پرداختی
 <!-- blog starts -->
 [Is the AI spell-casting metaphor harmful or helpful?](http://simonwillison.net/2022/Oct/5/spell-casting/) - 2022-10-05
 
@@ -38,7 +38,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
-### TIL
+### وبسایت های فروشگاهی
 <!-- tils starts -->
 [Querying newline-delimited JSON logs using AWS Athena](https://til.simonwillison.net/aws/athena-newline-json) - 2022-10-06
 
