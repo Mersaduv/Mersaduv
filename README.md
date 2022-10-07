@@ -21,7 +21,7 @@
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
-### On my blog
+### اپلکیشن ها و برنامه های پرداختی
 <!-- blog starts -->
 [Is the AI spell-casting metaphor harmful or helpful?](http://simonwillison.net/2022/Oct/5/spell-casting/) - 2022-10-05
 
