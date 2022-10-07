@@ -1,6 +1,6 @@
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
+### پروژه های در حال کار..
 <!-- recent_releases starts -->
 [datasette-sentry 0.3](https://github.com/simonw/datasette-sentry/releases/tag/0.3) - 2022-10-06
 
