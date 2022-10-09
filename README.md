@@ -40,7 +40,7 @@ More on [mersadkarimi.com](https://mersadkarimi.com/)
 
 ### وبسایت های فروشگاهی
 <!-- tils starts -->
-[Querying newline-delimited JSON logs using AWS Athena](https://github.com/Mersaduv/Car-Gallery-Shop) - فروشگاه اتومبیل طبق مشخصات که وارد شده مبلغ نمایش میده
+[Car gallery](https://github.com/Mersaduv/Car-Gallery-Shop) - فروشگاه اتومبیل طبق مشخصات که وارد شده مبلغ نمایش میده
 
 [Tommy's Margarita](https://github.com/mersaduv) - 2022-10-02
 
