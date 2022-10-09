@@ -36,7 +36,7 @@ ______________________________________________________________________
 [A tool to run caption extraction against online videos using Whisper and GitHub Issues/Actions](https://github.com/mersaduv) - 2022-09-30
 
 [First My Project Notepad](https://github.com/Mersaduv/NotePadBrowserAPP) - اولین پروژه که زدم بدون علم کافی اما بد نبود برای اون بازه زمانی
-
+______________________________________________________________________
 [Gmail Form](https://github.com/Mersaduv/Gmail-Project-Send-email-form) - بخش پر کردن فرم ایمیل و اعتبار سنجی مقادیر
 <!-- blog ends -->
 More on [mersadkarimi.com](https://mersadkarimi.com/)
@@ -45,7 +45,7 @@ More on [mersadkarimi.com](https://mersadkarimi.com/)
 ### وبسایت های فروشگاهی
 <!-- tils starts -->
 [Car gallery](https://github.com/Mersaduv/Car-Gallery-Shop) - فروشگاه اتومبیل طبق مشخصات که وارد شده مبلغ نمایش میده
-
+______________________________________________________________________
 [Tommy's Margarita](https://github.com/mersaduv) - 2022-10-02
 
 [GraphQL fragments](https://github.com/mersaduv) - 2022-09-30
