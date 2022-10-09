@@ -31,9 +31,9 @@ More [recent releases](https://github.com/mersaduv)
 
 [A tool to run caption extraction against online videos using Whisper and GitHub Issues/Actions](https://github.com/mersaduv) - 2022-09-30
 
-[Exploring 10m scraped Shutterstock videos used to train Meta's Make-A-Video text-to-video model](https://github.com/mersaduv) - 2022-09-29
+[First My Project Notepad](https://github.com/Mersaduv/NotePadBrowserAPP) - اولین پروژه که زدم بدون غلم کافی اما بد نبود برای اون بازه زمانی
 
-[You can't solve AI security problems with more AI](https://github.com/mersaduv) - 2022-09-17
+[Gmail Form](https://github.com/Mersaduv/Gmail-Project-Send-email-form) - بخش پر کردن فرم ایمیل و اعتبار سنجی مقادیر
 <!-- blog ends -->
 More on [mersadkarimi.com](https://mersadkarimi.com/)
 </td><td valign="top" width="33%">
@@ -48,7 +48,7 @@ More on [mersadkarimi.com](https://mersadkarimi.com/)
 
 [HTML video that loads when the user clicks play](https://github.com/mersaduv) - 2022-09-29
 
-[Athena error: The specified key does not exist](https://github.com/mersaduv) - 2022-09-28
+[Microsoft Website](https://github.com/Mersaduv/MicrosoftP) - کلون وبسایت مایکروسافت
 <!-- tils ends -->
 More on [mersadkarimi.com](https://mersadkarimi.com/)
 </td></tr></table>
