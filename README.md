@@ -32,11 +32,12 @@ ______________________________________________________________________
 [Get people's fake information](https://github.com/Mersaduv/random-Info-people) -
   
   دکمه new کلیک کنید بصورت تصادفی اطلاعات فیک از api دریافت میکنید
+  ______________________________________________________________________
 
 [Weeknotes: Datasette Cloud preview invitations](https://github.com/mersaduv) - 2022-09-30
-
+______________________________________________________________________
 [A tool to run caption extraction against online videos using Whisper and GitHub Issues/Actions](https://github.com/mersaduv) - 2022-09-30
-
+______________________________________________________________________
 [First My Project Notepad](https://github.com/Mersaduv/NotePadBrowserAPP) - اولین پروژه که زدم بدون علم کافی اما بد نبود برای اون بازه زمانی
 ______________________________________________________________________
 [Gmail Form](https://github.com/Mersaduv/Gmail-Project-Send-email-form) - بخش پر کردن فرم ایمیل و اعتبار سنجی مقادیر
