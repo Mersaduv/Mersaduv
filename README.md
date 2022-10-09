@@ -29,7 +29,7 @@ More [recent releases](https://github.com/mersaduv)
 
   
 ______________________________________________________________________
-[Software engineering practices](https://github.com/mersaduv) - 2022-10-01
+[Get people's fake information](https://github.com/Mersaduv/random-Info-people) - دکمه new کلیک کنید بصورت تصادفی اطلالاعات از api دریافت میکنید
 
 [Weeknotes: Datasette Cloud preview invitations](https://github.com/mersaduv) - 2022-09-30
 
