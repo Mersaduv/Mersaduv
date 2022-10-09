@@ -23,7 +23,8 @@ More [recent releases](https://github.com/mersaduv)
 
 ### وب اپلیکیشن ها و برنامه های پرداختی
 <!-- blog starts -->
-[Is the AI spell-casting metaphor harmful or helpful?](https://github.com/mersaduv) - 2022-10-05
+[arian Wallet - کیف پول دیجیتالی](https://github.com/Mersaduv/arianPay) - 
+شما می توانید لیست هزینه های روزانه خود را با توجه به موجودی که تعیین می کنید محاسبه کنید و همچنین کیف پول هم است قابلیت واریز مجدد
 
 [Software engineering practices](https://github.com/mersaduv) - 2022-10-01
 
