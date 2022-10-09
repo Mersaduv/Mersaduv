@@ -31,7 +31,7 @@ More [recent releases](https://github.com/mersaduv)
 
 [A tool to run caption extraction against online videos using Whisper and GitHub Issues/Actions](https://github.com/mersaduv) - 2022-09-30
 
-[First My Project Notepad](https://github.com/Mersaduv/NotePadBrowserAPP) - اولین پروژه که زدم بدون غلم کافی اما بد نبود برای اون بازه زمانی
+[First My Project Notepad](https://github.com/Mersaduv/NotePadBrowserAPP) - اولین پروژه که زدم بدون علم کافی اما بد نبود برای اون بازه زمانی
 
 [Gmail Form](https://github.com/Mersaduv/Gmail-Project-Send-email-form) - بخش پر کردن فرم ایمیل و اعتبار سنجی مقادیر
 <!-- blog ends -->
