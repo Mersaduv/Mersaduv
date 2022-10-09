@@ -28,7 +28,7 @@ More [recent releases](https://github.com/mersaduv)
   شما می توانید لیست هزینه های روزانه خود را با توجه به موجودی که تعیین می کنید محاسبه کنید و همچنین کیف پول هم است قابلیت واریز مجدد 
 
   
-
+______________________________________________________________________
 [Software engineering practices](https://github.com/mersaduv) - 2022-10-01
 
 [Weeknotes: Datasette Cloud preview invitations](https://github.com/mersaduv) - 2022-09-30
